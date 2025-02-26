@@ -1,3 +1,2 @@
 telebot
 google.generativeai
-os-sys
